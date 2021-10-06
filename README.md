@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 ```
 echo 'Meril';
 ```
------- [Learn .MD](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3)
+[Learn .MD](https://medium.com/analytics-vidhya/how-to-create-a-readme-md-file-8fb2e8ce24e3)

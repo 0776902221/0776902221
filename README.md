@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Meril Fernando
 ##  👀 I’m a Software Developer
-### 🌱 I have a postgraduate in MSc(GIS & RS)
+### 🌱 I have a postgraduate. I have MSc(GIS & RS)
 
 
 <!---

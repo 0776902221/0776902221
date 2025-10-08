@@ -1,8 +1,7 @@
-### 👋 Hi, I’m Meril Fernando
+# 👋 Hi, I’m Meril Fernando
 ##  👀 I’m a Software Developer
-# 🌱 I have a postgraduate in MSc(GIS & RS)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 🌱 I have a postgraduate in MSc(GIS & RS)
+
 
 <!---
 0776902221/0776902221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
